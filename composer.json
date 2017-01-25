@@ -1,0 +1,14 @@
+{
+    "name": "roksta/helpers",
+    "description": "die and dump for debugging",
+    "license": "MIT",
+    "type": "project",
+    "autoload": {
+        "files": [
+        	"src/helpers.php"
+        ]
+    },
+    "require": {
+        "symfony/var-dumper": "^3.2"
+    }
+}
