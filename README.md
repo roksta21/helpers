@@ -1,7 +1,12 @@
 # helpers
 just helpers I use on most projects.
 
-#die and dump - dd()
+# install
+```bash
+composer require roksta/helpers
+```
+
+# 1. die and dump - dd()
 ```php
   dd($data);
   
